@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 仍怀念当天明媚
+title: 咦
 ---
 {% include JB/setup %}
 
-#我真蛋疼
+我真蛋疼
 
 <ul>
 {% assign posts_collate = site.posts %}
