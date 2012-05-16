@@ -1,5 +1,14 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/twitter/page.html %}
+
+<article class="content">
+  {% if page.title %}
+  <section class="title">
+    <h2>{{ page.title }} </h2>
+  </section>
+  {% endif %}
+  <section class="post">
+  {{ content }}
+  </section>
+</article>
