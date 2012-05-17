@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "苍茫的天涯是我的爱"
-tagline: "动次打次"
-description: 
-category: "nonsense"
-tags: ["test"]
+tags: ["nonsense"]
 ---
 **这么地反复折腾不应该……**
 
