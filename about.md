@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+comment: true
 ---
 没啥好说的，把豆瓣上的那堆标签复制过来：
 
