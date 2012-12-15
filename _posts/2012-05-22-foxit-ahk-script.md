@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用AutoHotkey让Foxit模拟Vim的操作"
+title: "用AutoHotkey让Foxit Reader模拟Vim的操作"
 tags: ["software"]
 ---
 
@@ -16,7 +16,7 @@ tags: ["software"]
     l::Send ^{Tab}
     ^f::PgDn
     ^b::PgUp
-    G::End
+    ~~G::End~~ ;ahk不区分大小写……
     g::Home
     o::Send ^o
     d::Send ^w
