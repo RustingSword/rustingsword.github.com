@@ -16,7 +16,6 @@ tags: ["software"]
     l::Send ^{Tab}
     ^f::PgDn
     ^b::PgUp
-    ~~G::End~~ ;ahk不区分大小写……
     g::Home
     o::Send ^o
     d::Send ^w
