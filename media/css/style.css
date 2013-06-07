@@ -9,15 +9,16 @@
 * |\.|._)._)
 * --------------------------------- */
 
-@import url(http://fonts.googleapis.com/css?family=Galdeano);
+/*@import url(http://fonts.googleapis.com/css?family=Galdeano);
 @import url(http://fonts.googleapis.com/css?family=Electrolize);
-@import url(http://fonts.googleapis.com/css?family=Cuprum);
-body{font-size:14px;font-family:"Galdeano","Hiragino Sans GB", "Microsoft YaHei", sans-serif;color:#000000;background-color:#ffffff;}
+@import url(http://fonts.googleapis.com/css?family=Cuprum);*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic);
+body{font-size:14px;font-family:"PT Serif","Microsoft YaHei", sans-serif;color:#000000;background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
-h1{font-family:"Cuprum",sans-serif;font-size:2.2em;color:#000;}
-h2{font-family:"Cuprum",sans-serif;font-size:1.3em;color:#111;}
-h3{font-family:"Cuprum",sans-serif;font-size:1.2em;color:#222;}
-h4{font-family:"Cuprum",sans-serif;font-size:1em;color:#333;}
+h1{font-family:"PT Sans",sans-serif;font-size:2.2em;color:#000;}
+h2{font-family:"PT Sans",sans-serif;font-size:1.3em;color:#111;}
+h3{font-family:"PT Sans",sans-serif;font-size:1.2em;color:#222;}
+h4{font-family:"PT Sans",sans-serif;font-size:1em;color:#333;}
 a{color:#a9a9a9;text-decoration:none;}
 a:hover{color:#333333;-webkit-transition:color .2s linear;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
@@ -41,7 +42,7 @@ blockquote p{margin:0;padding:0;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;}
 header h1{padding:.5em 0;text-align:center;color:#666;}
-nav{font-family:"Electrolize",sans-serif;font-size:1em;text-transform:uppercase;padding: .3em 0;text-align:center;border-bottom:1px solid #ccc;}
+nav{font-family:"Open Sans",sans-serif;font-size:1em;text-transform:uppercase;padding: .3em 0;text-align:center;border-bottom:1px solid #ccc;}
 nav a{margin:0 1em; color:#999;}
 .title{text-align:center;margin-top:3em;}
 .meta{text-align:center;font-size:14px;color:#c0c0c0;}
