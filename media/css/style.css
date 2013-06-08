@@ -48,7 +48,7 @@ nav a{margin:0 1em; color:#999;}
 .meta{text-align:center;font-size:14px;color:#c0c0c0;}
 .meta span a{margin: 0 .25em;}
 .post{padding:1em 0em;}
-#copy {display:block; font-family:"Cuprum"; font-size: .9em; text-align: center;margin-top: 2em; color: #909090;}
+#copy {display:block; font-family:"Open Sans"; font-size: .9em; text-align: center;margin-top: 2em; color: #909090;}
 #copy a {color: #999999; text-decoration: underline;}
 #dsq-global-toolbar,#dsq-like-tooltip,#dsq-sort-by,.dsq-comment-moderate{display:none;}
 .dsq-comment-header{border: none !important;background:none !important;}
