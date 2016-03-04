@@ -11,7 +11,7 @@ end
 
 desc 'Build site with Jekyll'
 task :generate => :clean do
-  `jekyll`
+  `jekyll build`
 end
 
 desc 'Start server'
