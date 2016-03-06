@@ -32,6 +32,7 @@
         <span><a title="subscribe me" class="" href="/atom.xml">feed</a></span>
         </nav>
         {{ content }}
+        {% if page.comment %}
         <section class="comment">
         <div id="disqus_thread"></div>
         <script type="text/javascript">
@@ -47,6 +48,7 @@
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         </section>
+        {% endif %}
         <div id="copy">&copy; RustingSword | powered by <a title="a blog-aware, static site generator in Ruby" href="https://github.com/mojombo/jekyll">jekyll</a> | themed by <a href="http://lhzhang.com" title="sext iii">sext iii</a></div>
       </div>
     </div> <!--! end of #container -->

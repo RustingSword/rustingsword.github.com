@@ -1,6 +1,7 @@
 ---
 title: 0611聚会
 layout: post
+comment: true
 tags:
   - life
 ---

@@ -1,6 +1,7 @@
 ---
 title: xkcd quotation
 layout: post
+comment: true
 tags:
   - xkcd
 ---

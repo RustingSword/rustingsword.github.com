@@ -1,6 +1,7 @@
 ---
 title: 用ydcv在Vim里查单词
 layout: post
+comment: true
 tags:
   - software
   - Vim

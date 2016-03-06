@@ -1,6 +1,7 @@
 ---
 title: 判断算法是否能被改进
 layout: post
+comment: true
 tags:
   - algorithm
 ---

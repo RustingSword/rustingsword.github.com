@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: true
 title: "苍茫的天涯是我的爱"
 tags: ["nonsense"]
 ---

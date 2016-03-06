@@ -1,6 +1,7 @@
 ---
 title: 蛋疼的TeXLive
 layout: post
+comment: true
 tags:
   - software
   - Arch

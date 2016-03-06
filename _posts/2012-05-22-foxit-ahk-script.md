@@ -1,5 +1,6 @@
 ---
 layout: post
+comment: true
 title: "用AutoHotkey让Foxit Reader模拟Vim的操作"
 tags: ["software"]
 ---
