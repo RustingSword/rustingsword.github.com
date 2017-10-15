@@ -9,4 +9,4 @@ comment: true
 
 感谢[Wayne Zhang](http://lhzhang.com/)设计的这个模板，之前clone的[Jekyll Bootstrap](https://github.com/plusjade/jekyll-bootstrap)，但是对我来说还是繁复了一点，后来看到Wayne Zhang的主页，很喜欢这种简洁的页面，于是冒昧clone了下来。
 
-Contact: Telegram: Erratum / Email: i<AT>toonaive.me
+Contact: Telegram: Erratum / Email: i(at)toonaive.me
